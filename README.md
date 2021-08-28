@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  - 🔭 I’m currently working on my personal portfolio
- - ⚡ Fun fact: I sit on my desk all day tryna make some magic
+ - ⚡ Fun fact: I sit at my desk all day tryna make some magic
  
 <!--
 **ikramkharbouch/ikramkharbouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
