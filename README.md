@@ -2,6 +2,7 @@
 
  - 🔭 I’m currently working on my personal portfolio
  - ⚡ Fun fact: I sit at my desk all day tryna make some magic
+ - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikramkharbouch)](https://github.com/ikramkharbouch/github-readme-stats)
  
 <!--
 **ikramkharbouch/ikramkharbouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
