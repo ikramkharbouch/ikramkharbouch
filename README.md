@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/geekyumeko" target="blank"><img src="https://img.shields.io/twitter/follow/geekyumeko?logo=twitter&style=for-the-badge" alt="geekyumeko" /></a> </p>
 
-- 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [https://portfoliomine-kappa.vercel.app/](https://portfoliomine-kappa.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliomine-kappa.vercel.app/](https://ikramkharbouch.vercel.app/)
 
 - 📝 I regularly write articles on [https://dev.to/ikramkharbouch](https://dev.to/ikramkharbouch)
 
