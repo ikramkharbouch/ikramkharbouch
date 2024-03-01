@@ -8,15 +8,9 @@
 <p align="left"> <a href="https://twitter.com/geekyumeko" target="blank"><img src="https://img.shields.io/twitter/follow/geekyumeko?logo=twitter&style=for-the-badge" alt="geekyumeko" /></a> </p>
 
 
-- 👨‍💻 My identity is available at [portfolio](https://ikramkharbouch.vercel.app/)
-
 - 📝 I regularly write articles on [https://dev.to/ikramkharbouch](https://dev.to/ikramkharbouch)
 
-- 💬 Ask me about **Nextjs, React, Expressjs, Postgres**
-
 - 📫 How to reach me **4573r14@gmail.com**
-
-- ⚡ Fun fact **I eat candy everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
